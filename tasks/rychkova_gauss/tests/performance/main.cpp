@@ -1,4 +1,5 @@
 #include <gtest/gtest.h>
+
 #include <vector>
 
 #include "rychkova_gauss/common/include/common.hpp"
